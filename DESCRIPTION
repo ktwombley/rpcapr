@@ -1,0 +1,7 @@
+Package: rpcapr
+Title: Put pcap in your R.
+Description: Tools for working with libpcap packet captures.
+Version: 0.0.0
+Author: Keith Twombley <ktwombley@gmail.com>
+Maintainer: Keith Twombley <ktwombley@gmail.com>
+License: GPLv3
